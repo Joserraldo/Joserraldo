@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m @Joserraldo<br>🎓 System Engineering student, passionate about coding, technology, and smart problem-solving.<br>💻 Currently working on university projects and personal development tools using Python, web tech, and automation.<br>🤝 Open to collaborating on innovative software ideas, especially those with real-world impact.<br>🥋 Fun fact: I’m a Taekwondo black belt and a high-performance athlete — discipline and precision are in everything I do.<br>📫 Reach me on Discord: joserraldo<br>⚡ Bonus fact: I still believe Overwacth is peak gaming.<br><br>
+👋 Hi there! I’m @Joserraldo<br>🎓 System Engineering student, passionate about coding, technology, and smart problem-solving.<br>💻 Currently working on university projects and personal development tools using Python, web tech, and automation.<br>🤝 Open to collaborating on innovative software ideas, especially those with real-world impact.<br>🥋 Fun fact: I’m a Taekwondo black belt and a high-performance athlete — discipline and precision are in everything I do.<br>📫 Reach me on Discord: joserraldo<br>⚡ Bonus fact: I still believe Overwatch is peak gaming.<br><br>
 
 
 ## 🌐 Socials:
