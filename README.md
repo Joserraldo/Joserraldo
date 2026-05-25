@@ -5,6 +5,8 @@
 
 🚀 Currently building and scaling Calaut.pro, my own B2B SaaS platform.
 
+🖥️ Hardware Enthusiast & PC Assembly Expert — I build high-performance gaming rigs and optimize hardware limits from the ground up.
+
 🧠 Fast learner with a deep focus on precision, clean code, and premium UX/UI logic.
 
 🥋 Fun fact: I’m a Taekwondo black belt and a high-performance athlete — discipline and focus are baked into my workflow.
