@@ -1,10 +1,16 @@
 # 💫 About Me:
 👋 Hi there! I’m @Joserraldo
+
 🎓 Systems Engineering Student & Full-Stack Developer passionate about architecting scalable software, optimizing workflows, and leveraging advanced AI to solve complex problems.
+
 🚀 Currently building and scaling Calaut.pro, my own B2B SaaS platform.
+
 🧠 Fast learner with a deep focus on precision, clean code, and premium UX/UI logic.
+
 🥋 Fun fact: I’m a Taekwondo black belt and a high-performance athlete — discipline and focus are baked into my workflow.
+
 ⚡ Bonus fact: I still believe Overwatch is peak gaming.
+
 📫 Reach me on Discord: joserraldo
 
 
