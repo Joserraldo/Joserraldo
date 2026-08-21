@@ -9,6 +9,10 @@
 
 🧠 Fast learner with a deep focus on precision, clean code, and premium UX/UI logic.
 
+🏆 Hackathon Builder: Delivered functional prototypes under high pressure at events like Colombia 5.0 (Factory OS).
+
+🌍 Global Mindset: Disney Cultural Exchange Program Alumni — I know how to work and communicate in demanding, multicultural environments.
+
 🥋 Fun fact: I’m a Taekwondo black belt and a high-performance athlete — discipline and focus are baked into my workflow.
 
 ⚡ Bonus fact: I still believe Overwatch is peak gaming.
