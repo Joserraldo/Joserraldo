@@ -90,7 +90,7 @@ relational & NoSQL data · dashboards & analytics · 3D modeling & game dev · e
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<details>
+<details open>
 <summary><b>Full stack — every technology I've actually shipped with</b></summary>
 
 **Languages**
